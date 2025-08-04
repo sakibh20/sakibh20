@@ -35,3 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibh20&show_icons=true&locale=en&layout=compact" alt="sakibh20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibh20&show_icons=true&locale=en" alt="sakibh20" /></p>
+
+### 🔧 Work Contributions
+I actively contribute to professional projects through my work GitHub account [@sakib-unitydev](https://github.com/sakib-unitydev), where I’ve opened PRs, handled issue triage, and collaborated in private/enterprise repos.
+
