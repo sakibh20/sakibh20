@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
-<h3 align="center">A passionate game developer</h3>
+
+I'm a software engineer specializing in gameplay systems, AR/VR, WebGL games, and cross-platform mobile and desktop applications. I’m passionate about crafting clean, maintainable code and building immersive, scalable systems that deliver tangible value in the real world. I have contributed to diverse real-time applications from multiplayer games to interactive expos and virtual experiences. I am also proficient in building custom Unity Editor tools and windows to optimize team workflows. I'm passionate about crafting clean, maintainable code and delivering high-quality, scalable systems.
 
 <img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
 
