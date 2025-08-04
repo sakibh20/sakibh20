@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
 <h3 align="center">A passionate game developer</h3>
 
+<img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibh20&label=Profile%20views&color=0e75b6&style=flat" alt="sakibh20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibh20" alt="sakibh20" /></a> </p>
