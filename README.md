@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
 
-I'm a software engineer specializing in gameplay systems, AR/VR, WebGL games, and cross-platform mobile and desktop applications. I’m passionate about crafting clean, maintainable code and building immersive, scalable systems that deliver tangible value in the real world. I have contributed to diverse real-time applications from multiplayer games to interactive expos and virtual experiences. I am also proficient in building custom Unity Editor tools and windows to optimize team workflows. I'm passionate about crafting clean, maintainable code and delivering high-quality, scalable systems.
+I’m a Unity Developer with over 6 years of experience in coding games, mobile apps, and AR/VR projects. I specialize in writing clean, efficient C# code and building cross-platform projects for Android, iOS, WebGL, and desktop. I enjoy prototyping new ideas, creating tools to speed up development, and working with multiplayer systems. I’m currently pursuing a Master’s in Software, Web, and Cloud at Tampere University and looking for my next role.
 
 <img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
 
@@ -30,13 +30,13 @@ I'm a software engineer specializing in gameplay systems, AR/VR, WebGL games, an
 <a href="https://www.leetcode.com/skb_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skb_sec" height="30" width="40" /></a>
 </p>
 
+### 🔧 Work Contributions
+I actively contribute to professional projects through my work GitHub account [@sakib-unitydev](https://github.com/sakib-unitydev), where I’ve opened PRs, handled issue triage, and collaborated in private/enterprise repos.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibh20&show_icons=true&locale=en&layout=compact" alt="sakibh20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibh20&show_icons=true&locale=en" alt="sakibh20" /></p>
-
-### 🔧 Work Contributions
-I actively contribute to professional projects through my work GitHub account [@sakib-unitydev](https://github.com/sakib-unitydev), where I’ve opened PRs, handled issue triage, and collaborated in private/enterprise repos.
 
