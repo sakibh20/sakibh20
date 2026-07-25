@@ -1,42 +1,98 @@
 <h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
 
-I’m a Unity Developer with over 6 years of experience in coding games, mobile apps, and AR/VR projects. I specialize in writing clean, efficient C# code and building cross-platform projects for Android, iOS, WebGL, and desktop. I enjoy prototyping new ideas, creating tools to speed up development, and working with multiplayer systems. I’m currently pursuing a Master’s in Software, Web, and Cloud at Tampere University and looking for my next role.
+<p align="center">
+  Unity Developer • C# • Games • AR/VR • WebGL
+</p>
 
-<img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakibh20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-###
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=sakibh20">
+    <img src="https://github-profile-trophy.vercel.app/?username=sakibh20&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibh20&label=Profile%20views&color=0e75b6&style=flat" alt="sakibh20" /> </p>
+<p>
+I’m a Unity Developer with over 6 years of experience building games, mobile applications, and AR/VR projects. I specialize in writing clean, efficient C# code and building cross-platform projects for Android, iOS, WebGL, and desktop.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibh20" alt="sakibh20" /></a> </p>
+I enjoy prototyping new ideas, creating development tools, optimizing performance, and working with multiplayer systems. I’m currently pursuing a Master’s in Software, Web, and Cloud at Tampere University and looking for my next role.
+</p>
 
-- 🔭 I’m currently working on **desktop games**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="Snake animation" />
+</p>
 
-- 🌱 I’m currently learning **unreal engine, native android & iOS, database, react & blender**
+### 🔭 Currently Working On
+**Desktop games**
 
-- 👯 I’m looking to collaborate on **any AAA games. Connect me if you need an extra pair of hands.**
+### 🌱 Currently Learning
+**Unreal Engine, Native Android & iOS, Databases, React, and Blender**
 
-- 👨‍💻 All of my projects are available at [https://mdsakibhasan.com/](https://mdsakibhasan.com/)
+### 👯 Looking to Collaborate On
+**AAA games. Connect with me if you need an extra pair of hands.**
 
-- 📫 How to reach me **sakibh20@gmail.com**
+### 👨‍💻 Portfolio
+[mdsakibhasan.com](https://mdsakibhasan.com/)
 
-- 📄 Know about my experiences [https://mdsakibhasan.com/resume/](https://mdsakibhasan.com/resume/)
+### 📄 Resume
+[View my resume](https://mdsakibhasan.com/resume/)
+
+### 📫 Contact
+**sakibh20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/skbsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skbsec" height="30" width="40" /></a>
-<a href="https://fb.com/skb.sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skb.sec" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/skb_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skb_sec" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/skb_sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skb_sec" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/skbsec">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/skb.sec">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/skb_sec">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/skb_sec">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 ### 🔧 Work Contributions
-I actively contribute to professional projects through my work GitHub account [@sakib-unitydev](https://github.com/sakib-unitydev), where I’ve opened PRs, handled issue triage, and collaborated in private/enterprise repos.
+
+I actively contribute to professional projects through my work GitHub account [@sakib-unitydev](https://github.com/sakib-unitydev), where I’ve opened PRs, handled issue triage, and collaborated in private and enterprise repositories.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibh20&show_icons=true&locale=en&layout=compact" alt="sakibh20" /></p>
+<p align="left">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibh20&show_icons=true&locale=en" alt="sakibh20" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibh20&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibh20&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
