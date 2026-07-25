@@ -98,17 +98,6 @@ Developed multiplayer and cross-platform games and applications for Android, iOS
 
 ---
 
-## 🎮 Selected Projects
-
-- **Tic Tac Toe Glow** — 100M+ downloads
-- **Toon War Idle**
-- **Digital World 2020**
-- **WCIT 2021**
-- **Island Digger 3D**
-- **Virus Armageddon**
-- **AR/VR Experiences**
-
----
 
 ## 🔧 Work Contributions
 
