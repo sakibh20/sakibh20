@@ -1,122 +1,50 @@
-<h1 align="center">Hi 👋, I'm MD SAKIB HASAN</h1>
+<h1>Hi, I'm Md Sakib Hasan 👋</h1>
 
-<h3 align="center">
-Senior Unity Developer • Game Development • AR/VR • Cross-Platform Applications
-</h3>
+**Unity developer in Tampere, Finland.** I work on live mobile games, Unity UI and performance.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakibh20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+**Available full-time from January 2027** (MSc graduation, December 2026). Open to contract or part-time work now. Based in Tampere, no relocation needed.
 
-<div align="center">
-  <a href="https://github.com/sakibh20">
-    <img src="https://github-trophies.vercel.app/?username=sakibh20&count_private=true&theme=transparent&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-  </a>
-</div>
+[Portfolio](https://mdsakibhasan.com/) · [LinkedIn](https://www.linkedin.com/in/skbsec/) · [CV](https://mdsakibhasan.com/cv) · [sakibh20@gmail.com](mailto:sakibh20@gmail.com)
 
 ---
 
-## 🚀 About Me
+## What I'm working on
 
-I'm a **Senior Unity Developer with 6+ years of experience** building high-performance games, cross-platform applications, and AR/VR experiences.
+On **[Tic Tac Toe Glow](https://play.google.com/store/apps/details?id=com.arcsys.tictactoe)** (100M+ downloads on Google Play):
 
-- 🎮 Currently working on **Tic Tac Toe Glow**, a mobile game with **100M+ downloads**
-- ⚡ Reduced Android install size by **~40% (130MB → 77MB)** using Addressables and Google Play Asset Delivery
-- 🛠️ Specialized in **Unity, C#, Gameplay Systems, LiveOps, and Performance Optimization**
-- 🌍 Experienced with **Android, iOS, WebGL, Windows, and macOS**
-- 🥽 Experienced in **AR/VR development**
-- 🎓 MSc student in **Software, Web & Cloud at Tampere University**
-- 🧠 Solved **200+ algorithmic problems**
-- 🌐 [Portfolio](https://mdsakibhasan.com/) · 💼 [LinkedIn](https://linkedin.com/in/skbsec)
-- 📫 **sakibh20@gmail.com**
+- Cut the Android install size by **about 40%, from 130 MB to 77 MB**, by moving content to **Unity Addressables** and **Google Play Asset Delivery**.
+- Rebuilt the game's interface in **Unity UI (UGUI)**, most of it end to end: leaderboard, quests, collections, player profile, settings, in-app purchase shop and events.
+- Ship new features and LiveOps updates with a distributed team.
 
----
+That code is private. The repositories below are ones you can read.
 
-## 🛠️ Languages & Tools
+## Code you can read
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,java,c,androidstudio,blender,figma,git,github,gitlab,jenkins" alt="Skills"/>
-</p>
+| Repository | What it shows |
+|---|---|
+| [lasmeta-case-study](https://github.com/sakibh20/lasmeta-case-study) | Multiplayer card-dealer scene with **Photon Fusion**: shared mode, state authority for turns, RPC-synced animation and audio |
+| [this-is-blast-clone](https://github.com/sakibh20/this-is-blast-clone) | Hyper-casual mechanics in **Unity 6**, split into small managers for cubes, levels and colour transitions |
+| [toon-war-battle](https://github.com/sakibh20/toon-war-battle) | Unfinished 2022 prototype from Creative Fun Games: progression, inventory, pathfinding, ScriptableObject data |
+| [Eco-Quest](https://github.com/sakibh20/Eco-Quest) | Educational game prototype from a Tampere University course |
 
-**Game Development:** `Gameplay Systems` `Game Architecture` `LiveOps` `Addressables` `ScriptableObjects`
+## What I work with
 
-**Networking:** `Photon PUN2` `Photon Fusion` `WebSockets` `gRPC` `UDP`
+**Core:** Unity, C#, Unity UI (UGUI), Addressables, Google Play Asset Delivery, ScriptableObjects, Unity Editor tooling, profiling and optimization
 
-**AR/VR:** `AR Foundation` `Vuforia` `Oculus VR` `Kinect`
+**Multiplayer and services:** Photon (PUN2, Fusion), Firebase, REST APIs, analytics, in-app purchases
 
----
+**Platforms:** Android, iOS, WebGL, Windows, macOS
 
-## 💼 Experience
+**Earlier work:** AR/VR client projects with AR Foundation, Vuforia and Oculus
 
-### Senior Unity Developer — GravitySoft OÜ
+## Experience
 
-**Nov 2025 – Present · Remote**
+- **Senior Unity Developer**, GravitySoft OÜ (Nov 2025 to present, remote): Tic Tac Toe Glow
+- **Senior Game Developer**, Riseup Labs (Dec 2023 to Oct 2025): Unity applications, reusable systems, custom Editor tools
+- **Senior Gameplay Programmer**, Softwind Tech (Feb 2020 to Nov 2023): Photon multiplayer for Digital World 2020 and WCIT 2021, cross-platform games and apps
 
-Developing **Tic Tac Toe Glow**, a live mobile game with **100M+ downloads**.
-
-- Reduced Android install size by approximately **40%**
-- Implemented **Unity Addressables** and **Google Play Asset Delivery**
-- Led large-scale UI modernization and game reskinning
-- Developed LiveOps and gameplay features
-- Improved runtime performance and asset management
-
-### Senior Game Developer — Riseup Labs
-
-**Dec 2023 – Oct 2025**
-
-Developed scalable Unity applications, reusable gameplay systems, custom Unity Editor tools, and optimized applications through deep profiling.
-
-### Senior Gameplay Programmer — Softwind Tech Ltd.
-
-**Feb 2020 – Nov 2023**
-
-Developed multiplayer and cross-platform games and applications for Android, iOS, Windows, macOS, and WebGL. Led development of **Digital World 2020** and **WCIT 2021**.
+Full history on my [resume](https://mdsakibhasan.com/resume/).
 
 ---
 
-## 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakibh20&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sakibh20&count_private=true&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sakibh20&count_private=true&show_icons=true&locale=en&theme=transparent" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sakibh20/sakibh20/output/snake.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-
-## 🔧 Work Contributions
-
-I also contribute to professional projects through my work GitHub account:
-
-👉 [@sakib-unitydev](https://github.com/sakib-unitydev)
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/skbsec">
-    <img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/skb_sec">
-    <img src="https://skillicons.dev/icons?theme=dark&i=hackerrank" width="40" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/skb_sec">
-    <img src="https://skillicons.dev/icons?theme=dark&i=leetcode" width="40" alt="LeetCode"/>
-  </a>
-</p>
+Professional work goes through my work account, [@sakib-unitydev](https://github.com/sakib-unitydev), so this profile mostly shows personal and study projects.
