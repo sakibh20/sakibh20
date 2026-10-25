@@ -44,7 +44,3 @@ That code is private. The repositories below are ones you can read.
 - **Senior Gameplay Programmer**, Softwind Tech (Feb 2020 to Nov 2023): Photon multiplayer for Digital World 2020 and WCIT 2021, cross-platform games and apps
 
 Full history on my [resume](https://mdsakibhasan.com/resume/).
-
----
-
-Professional work goes through my work account, [@sakib-unitydev](https://github.com/sakib-unitydev), so this profile mostly shows personal and study projects.
