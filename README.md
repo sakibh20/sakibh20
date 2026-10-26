@@ -41,6 +41,6 @@ That code is private. The repositories below are ones you can read.
 
 - **Senior Unity Developer**, GravitySoft OÜ (Nov 2025 to present, remote): Tic Tac Toe Glow
 - **Senior Game Developer**, Riseup Labs (Dec 2023 to Oct 2025): Unity applications, reusable systems, custom Editor tools
-- **Senior Gameplay Programmer**, Softwind Tech (Feb 2020 to Nov 2023): Photon multiplayer for Digital World 2020 and WCIT 2021, cross-platform games and apps
+- **Senior Gameplay Programmer**, Alienide Interactive (Feb 2020 to Nov 2023): Photon multiplayer for Digital World 2020 and WCIT 2021, cross-platform games and apps
 
 Full history on my [resume](https://mdsakibhasan.com/resume/).
