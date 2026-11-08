@@ -24,8 +24,9 @@ That code is private. The repositories below are ones you can read.
 |---|---|
 | [lasmeta-case-study](https://github.com/sakibh20/lasmeta-case-study) | Multiplayer card-dealer scene with **Photon Fusion**: shared mode, state authority for turns, RPC-synced animation and audio |
 | [this-is-blast-clone](https://github.com/sakibh20/this-is-blast-clone) | Hyper-casual mechanics in **Unity 6**, split into small managers for cubes, levels and colour transitions |
-| [toon-war-battle](https://github.com/sakibh20/toon-war-battle) | Unfinished 2022 prototype from Creative Fun Games: progression, inventory, pathfinding, ScriptableObject data |
+| [Starstuff-Universal-Drive](https://github.com/sakibh20/Starstuff-Universal-Drive) | Arcade vehicle controller in **Unity 6** that makes any 3D object drivable, built from scratch on Unity physics |
 | [Eco-Quest](https://github.com/sakibh20/Eco-Quest) | Educational game prototype from a Tampere University course |
+| [secure-post](https://github.com/sakibh20/secure-post) | Turn-based multiplayer bluff game with a secure .NET backend (Tampere University group project) |
 
 ## What I work with
 
